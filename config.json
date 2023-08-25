@@ -1,6 +1,8 @@
 {
   "server": "mastodon.blaede.family",
   "home-timeline-length": 100,
+  "max-bookmarks": 10,
+  "max-favourites": 10,
   "max-followings": 10,
   "from-notifications": 1
 }
